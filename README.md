@@ -16,6 +16,8 @@ GET http://localhost:3000/api/data
 - Express.js
 
 ## Установка
+- создайте .env файл и скопируйте в него все, что находится в файле .env.example
+
 - установка с докером:
 ```bash
 $ docker login
